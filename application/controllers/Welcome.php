@@ -34,5 +34,9 @@ function __construct(){
 			
 	}
 
+	public function reg_menu1(){
+	$this->load->view('b');
+}
+
 
 }
