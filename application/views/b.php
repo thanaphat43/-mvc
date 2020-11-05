@@ -19,7 +19,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container"  align="center">
-     <form action="<?php echo site_url('Welcome/reg_menu'); ?>" enctype="multipart/form-data" method="POST">
+     <form action="<?php echo site_url('Welcome/reg_menu1'); ?>" enctype="multipart/form-data" method="POST">
    
 	<h1>เพิ่มขบวนรถ</h1>
 
